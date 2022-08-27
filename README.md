@@ -1,6 +1,6 @@
 # qr_scanner
 
-A new Flutter project.
+A new Flutter project. Runs on linux desktop and android.
 
 ## Getting Started
 
